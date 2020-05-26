@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering Product Development, Singapore University of Technology and Design, 2017
+* M.S. in Robotics, Johns Hopkins University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Test Development Intern
+  * Fairchild Semiconductor International, Inc., Singapore
+  
+* Aug 2017 - Mar 2019: Research Officer
+  * ROAR Laboratory, Singapore University of Technology and Design
+  * Supervisor: Mohan Rajesh Elara
   
 Skills
 ======
