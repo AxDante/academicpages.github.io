@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ku Ping-Cheng"
   avatar           : "profile.png"
-  bio              : "Bio"
-  location         : "Baltimore"
+  bio              : #"Bio"
+  location         : "Baltimore, Maryland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
