@@ -11,4 +11,4 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 
 Authors: **Ku Ping Cheng**, Rajesh Elara Mohan, Nguyen Huu Khanh Nhan, Anh Vu Le 
 
-Link to paper: https://ieeexplore.ieee.org/document/8761971
+[Link to paper](https://ieeexplore.ieee.org/document/8761971)
