@@ -13,4 +13,4 @@ Authors: Prabakaran Veerajagadheswar, **Ku Ping-Cheng**, Mohan Rajesh Elara, Anh
 
 This paper proposes a motion planning technique which adapts polyomino tiling theory to tile a defined space and to produce navigation paths that traverse on the generated tile-set, attempting to maximize the total coverage of the visited area. 
 
-Link to paper: https://journals.sagepub.com/doi/full/10.1177/1729881420914441
+[Link to paper](https://journals.sagepub.com/doi/full/10.1177/1729881420914441)
